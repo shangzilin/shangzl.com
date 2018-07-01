@@ -1,26 +1,29 @@
-core.symlinks=false
-core.autocrlf=true
-core.fscache=true
-color.diff=auto
-color.status=auto
-color.branch=auto
-color.interactive=true
-help.format=html
-rebase.autosquash=true
-http.sslcainfo=D:/Soft/git/mingw32/ssl/certs/ca-bundle.crt
-http.sslbackend=openssl
-diff.astextplain.textconv=astextplain
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-pack.packsizelimit=2g
-credential.helper=manager
-user.name=shangzl
-user.user.email=shangzl@126.com
-core.repositoryformatversion=0
-core.filemode=false
-core.bare=false
-core.logallrefupdates=true
-core.symlinks=false
-core.ignorecase=true
+[33mcommit 4b8d1aa9833f683b04ef6dc48acd43b538a0ee37[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: shangzl <shangzl@126.com>
+Date:   Sun Jul 1 14:35:55 2018 +0800
+
+    第二次修改
+
+[33mcommit 2500742548bf12c7fd321a6419bf7f654b6449fd[m
+Author: shangzl <shangzl@126.com>
+Date:   Sun Jul 1 14:34:05 2018 +0800
+
+    modify
+
+[33mcommit 3de9c9cac15fee4c8446d3e8e5dec458d885c6d6[m
+Author: shangzl <shangzl@126.com>
+Date:   Sun Jul 1 13:30:31 2018 +0800
+
+    提交b.txt‘
+
+[33mcommit 7f87ec63a90a30f79f2954cbb4c6eb6a323ba195[m
+Author: shangzl <shangzl@126.com>
+Date:   Sun Jul 1 13:24:45 2018 +0800
+
+    提交a
+
+[33mcommit 5b39d0678a1f112fc6a9d217996ed2ac2b1fe7a1[m
+Author: shangzl <shangzl@126.com>
+Date:   Sun Jul 1 13:22:57 2018 +0800
+
+    first commit
