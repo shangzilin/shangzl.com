@@ -14,6 +14,7 @@ public class UserController {
 
 	public void toAdd() {
 		System.out.println("add");
+		System.out.println("fdsa");
 	}
 
 }
