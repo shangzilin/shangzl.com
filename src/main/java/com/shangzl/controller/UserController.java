@@ -6,10 +6,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("user")
 public class UserController {
-	
+
 	@RequestMapping("/tolist")
 	public String toList() {
 		return "list";
+	}
+
+	public void toAdd() {
+		System.out.println("add");
 	}
 
 }
