@@ -15,8 +15,6 @@ public class UserController {
 	public void toAdd() {
 		System.out.println("add");
 		System.out.println("fdsa");
-		System.out.println("fdsa");
-		System.out.println("version 1.0 真的是1.0");
 	}
 
 }
