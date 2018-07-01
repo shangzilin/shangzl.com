@@ -16,6 +16,8 @@ public class UserController {
 		System.out.println("add");
 		System.out.println("fdsa");
 		System.out.println("master1");
+		System.out.println("szl1");
+
 	}
 
 }
