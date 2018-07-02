@@ -18,7 +18,12 @@ public class UserController {
 		System.out.println("master1");
 		System.out.println("szl1");
 		System.out.println("fix");
+		System.out.println();
 
+	}
+	
+	public void github() {
+		System.out.println("this is test");
 	}
 
 }
